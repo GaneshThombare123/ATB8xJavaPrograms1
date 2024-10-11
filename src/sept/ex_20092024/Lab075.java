@@ -11,7 +11,7 @@ public class Lab075 {
 
         char grade = 'F';
         //int score = 89;
-        int score = 100;
+        int score = 71;
         if (score >= 90 && score <= 100){
             grade = 'A';
         }else if (score >= 80 && score <= 89){
