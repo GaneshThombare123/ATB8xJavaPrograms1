@@ -8,6 +8,9 @@ public class Lab126 {
         System.out.println(gs.age);
         System.out.println(gs.legs);
 
+
+
+
         Dog bd = new Dog("BD");
         System.out.println(bd.breed);
         System.out.println(bd.name);

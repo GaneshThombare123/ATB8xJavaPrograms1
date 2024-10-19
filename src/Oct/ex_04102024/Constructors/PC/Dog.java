@@ -14,11 +14,11 @@ public class Dog {
         System.out.println("God is Happy!!");
     }
 Dog(String breed){
-    System.out.println("I an a parameterised constructor");
+    System.out.println("I am a parameterised constructor");
     this.breed = breed;
 }
     Dog(String breed, String name, int age, int legs) {
-        System.out.println("I an a parameterised constructor");
+        System.out.println("I am a parameterised constructor");
         this.breed = breed;
         this.name = name;
         this.age = age;

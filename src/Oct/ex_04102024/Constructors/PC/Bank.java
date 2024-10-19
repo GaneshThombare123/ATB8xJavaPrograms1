@@ -5,7 +5,7 @@ public class Bank {
     int balance;
 
 
-    void withDrow(){}
+    void withDraw(){}
     void addBalance(){}
 
 }
