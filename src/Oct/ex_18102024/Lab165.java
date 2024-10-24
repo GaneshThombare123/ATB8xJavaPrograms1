@@ -8,10 +8,10 @@ class Super{
     protected Super(){this.a = a;}
 
     }
-super(){
-
-
-public class Sub extends Super{
-    public Sub (int a){ super ();}
-    public Sub () {
-        super();
+//public class super(){
+//
+//
+//public class Sub extends Super{
+//    public Sub (int a){ super ();}
+//    public Sub () {
+//        super();
